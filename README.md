@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<h3>Incoming Freshman at Rutgers University</h3>
+<h3>Incoming Freshman Computer Science Major</h3>
 </div>
 
 <!--
