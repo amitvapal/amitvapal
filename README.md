@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<h3>12th grader</h3>
+<h3>Incoming Freshman at Rutgers University</h3>
 </div>
 
 <!--
