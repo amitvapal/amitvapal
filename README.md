@@ -39,5 +39,4 @@ Here are some ideas to get you started:
 
 
 
-### Stats
-![Amitva's github stats](https://github-readme-stats.vercel.app/api?username=amitvapal&count_private=true&show_icons=true&theme=default)
+
